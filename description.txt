@@ -1,0 +1,2 @@
+Exploring usage of Twitter API to extract tweets, and retweet, DM, reply as per the requirements.
+Prototyping a simple Twitter bot.
