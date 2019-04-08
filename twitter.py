@@ -23,6 +23,6 @@ now = datetime.now()
 # dd/mm/YY H:M:S
 dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
 
-message = "was ist das?\n"
-twitter.update_status(status= "How can you not love Shiffman? Such a pure genius. ")
+message = "your tweet\n"
+twitter.update_status(status= "Daylight Savings: " + dt_string)
 print("Tweeted: " + message)
